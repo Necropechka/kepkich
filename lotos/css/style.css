@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+}
+button {
+    height:100px;
+    width:100px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: #000000;
+    font-size: 1.0em; 
+       }
+.nav_1{
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.bbq{
+    background-color: rgb(99, 181, 199);
+    top: 100%;
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+.top{
+    background-color: rgb(206, 106, 162);
+    top: 100%;
+    width: 90%;
+    margin: auto;
+    height: auto;
+}
+.down{
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: 400px;
+    margin: auto;
+}
+.bdown{
+    background-color: rgb(188, 183, 180);
+    width: 100%;
+    height: 400px;
+}
+.baton{
+    outline: none;
+    color: #000000;
+    font-size: 2.0em; 
+}
+.lol{
+    outline: none;
+    color: #000000;
+    font-size: 2.0em; 
+}
