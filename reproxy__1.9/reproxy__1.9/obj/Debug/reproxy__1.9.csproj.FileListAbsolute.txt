@@ -1,0 +1,11 @@
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\bin\Debug\reproxy__1.9.exe.config
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\bin\Debug\reproxy__1.9.exe
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\bin\Debug\reproxy__1.9.pdb
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\bin\Debug\System.Drawing.Common.dll
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\bin\Debug\System.Drawing.Common.pdb
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\bin\Debug\System.Drawing.Common.xml
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\obj\Debug\reproxy__1.9.csproj.AssemblyReference.cache
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\obj\Debug\reproxy__1.9.csproj.CoreCompileInputs.cache
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\obj\Debug\reproxy__1.9.csproj.CopyComplete
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\obj\Debug\reproxy__1.9.exe
+C:\Users\doger\source\repos\reproxy__1.9\reproxy__1.9\obj\Debug\reproxy__1.9.pdb
